@@ -4,7 +4,7 @@
 
 Creado por:
 
-José Mateo Riofrio Rosero
+José Mateo Riofrio Rosero <br/> y 
 Carlos Augusto Montes Gil
 # RickAndMorty-App
 # RickAndMorty-App
