@@ -107,7 +107,7 @@ h2 {
 }
 
 .resident-card:hover {
-  padding: 15px;
+  padding: 10px;
   transition: 0.4s;
   box-shadow: 2px 2px 18px rgba(8, 226, 0, 0.966);
 }
@@ -127,7 +127,7 @@ h2 {
   }
 }
 
-@media (max-width: 780px) {
+@media (max-width: 1000px) {
   .resident {
   width: 33.33%;
   padding: 15px;
