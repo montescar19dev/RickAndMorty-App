@@ -119,4 +119,8 @@ h2 {
   background-color: #026a93;
   color: white;
   }
+  .resident {
+  width: 50%;
+  padding: 15px;
+}
 }
