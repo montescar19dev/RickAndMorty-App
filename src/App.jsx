@@ -37,7 +37,7 @@ function App() {
 
       <label htmlFor="buttonID"><input
         className='search-box'
-        type="text"
+        type="number"
         placeholder='Insert location ID'
         value={typeId}
         onChange={e => setTypeId(e.target.value)}
