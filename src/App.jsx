@@ -22,7 +22,8 @@ function App() {
 
   console.log(location);
   
-  const noteText = "Please read this important note before proceeding: <br /> This application is made so that at each recharge, random information from each world is displayed. If you don't see any information, please refresh the page or enter a number between 1 and 200 of the available worlds in the \"Location ID\" box above.";
+  const noteTitle = "Please read this important note before proceeding:";
+  const noteText = "This application is made so that at each recharge, random information from each world is displayed. If you don't see any information, please refresh the page or enter a number between 1 and 200 of the available worlds in the \"Location ID\" box above.";
 
   return (
     <div className="App">
@@ -51,6 +52,7 @@ function App() {
       </section>
 
       <div>
+          <h3 className='noteTitle'>{noteTitle}</h3>
           <p className='noteText'>{noteText}</p>
         <h2 className='ResidentsTitle'>Residents:</h2>
       </div>
