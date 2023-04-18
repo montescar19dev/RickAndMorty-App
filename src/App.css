@@ -80,10 +80,11 @@ h2 {
 }
 
 .noteText {
-  max-width: 800px; /* Establece un ancho máximo */
-  margin: 0 auto; /* Centra el elemento */
-  padding: 0 10px; /* Añade un margen izquierdo y derecho */
-  box-sizing: border-box; /* Incluye el padding dentro del ancho del elemento */
+  font-size: small;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 10px;
+  box-sizing: border-box;
 }
 
 .ResidentsTitle {
