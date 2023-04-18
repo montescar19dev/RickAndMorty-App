@@ -74,6 +74,13 @@ h2 {
   box-shadow: 0px 0px 5px #7e33b7;
 }
 
+.noteText {
+  max-width: 800px; /* Establece un ancho máximo */
+  margin: 0 auto; /* Centra el elemento */
+  padding: 0 10px; /* Añade un margen izquierdo y derecho */
+  box-sizing: border-box; /* Incluye el padding dentro del ancho del elemento */
+}
+
 .ResidentsTitle {
   text-align: center;
   padding: 1rem;
