@@ -116,7 +116,7 @@ h2 {
 
 @media (max-width: 767px)
   .resident {
-    width: 50%;
+    width: 100%;
   }
 }
 
