@@ -52,7 +52,7 @@ function App() {
       </section>
 
       <div>
-          <h3 className='noteTitle'>{noteTitle}</h3>
+          <h4 className='noteTitle'>{noteTitle}</h4>
           <p className='noteText'>{noteText}</p>
         <h2 className='ResidentsTitle'>Residents:</h2>
       </div>
