@@ -114,19 +114,6 @@ h2 {
   }
 }
 
-
-@media (min-width: 558px) {
-  .resident {
-    width: 50%;
-  }
-}
-
-@media (max-width: 770px) {
-  .resident {
-    width: 50%;
-  }
-}
-
   .search-box {
     width: 40%;
     height: 35px;
