@@ -114,6 +114,12 @@ h2 {
   }
 }
 
+@media (max-width: 767px)
+  .resident {
+    width: 50%;
+  }
+}
+
 @media (min-width: 558px) {
   .resident {
     width: 50%;
