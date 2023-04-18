@@ -114,9 +114,8 @@ h2 {
   }
 }
 
-  .search-box {
-    width: 40%;
-    height: 35px;
-  }
+@media (max-width: 900px) {
+ body {
+  background-color: #026a93;
+  color: white;
 }
-
